@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NatashaAsnani
+- 👋 Hi, I’m Natasha Asnani
 - 👀 I’m interested in web development and creating intuitive user interfaces.
 - 🌱 I’m currently learning frontend frameworks like React, Vue, and others to enhance my skills in web development.
 - 💞️ I’m looking to collaborate on web development projects and innovative design solutions.
