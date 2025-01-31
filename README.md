@@ -1,8 +1,7 @@
+<br>
 🚀 About Me
 <br>
 <hr>
-
-<br>
 <br>
 
 
