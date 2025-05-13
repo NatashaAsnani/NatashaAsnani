@@ -11,7 +11,7 @@
 
 🏅 NAVTTC Certified Web Developer
 
-✅ 1+ years of experience in web development
+✅ 1.5 years of experience in web development
 
 ✅ Custom website development & WordPress design
 
